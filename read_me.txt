@@ -1,0 +1,1 @@
+C:\Users\weweaq\AppData\Local\Programs\Python\Python37

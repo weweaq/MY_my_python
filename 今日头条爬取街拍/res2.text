@@ -1,0 +1,65 @@
+<!DOCTYPE html><html><head><meta http-equiv="x-dns-prefetch-control" content="on"><link rel="dns-prefetch" href="//s3.pstatp.com/"><link rel="dns-prefetch" href="//s3a.pstatp.com/"><link rel="dns-prefetch" href="//s3b.pstatp.com"><link rel="dns-prefetch" href="//p1.pstatp.com/"><link rel="dns-prefetch" href="//p3.pstatp.com/"><meta charset="utf-8"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><meta name="renderer" content="webkit"><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no, minimal-ui"><meta name="baidu-site-verification" content="T239HZAbh7"><meta name="360-site-verification" content="b96e1758dfc9156a410a4fb9520c5956"><meta name='360_ssp_verify' content='2ae4ad39552c45425bddb738efda3dbb'><meta name="google-site-verification" content="3PYTTW0s7IAfkReV8wAECfjIdKY-bQeSkVTyJNZpBKE"><meta name="shenma-site-verification" content="34c05607e2a9430ad4249ed48faaf7cb_1432711730"><meta name="baidu_union_verify" content="b88dd3920f970845bad8ad9f90d687f7"><meta name="domain_verify" content="pmrgi33nmfuw4ir2ej2g65lunfqw6ltdn5wselbcm52wszbchirdqyztge3tenrsgq3dknjume2tayrvmqytemlfmiydimddgu4gcnzcfqrhi2lnmvjwc5tfei5dcnbwhazdcobuhe2dqobrpu"><title>街拍_头条搜索</title><meta name="keywords" content="街拍"><meta name="description" content="《今日头条》(www.toutiao.com)是一款基于数据挖掘的推荐引擎产品，它为用户推荐有价值的、个性化的信息，提供连接人与信息的新型服务，是国内移动互联网领域成长最快的产品服务之一。"><meta name="format-detection" content="telephone=no"><link rel="shortcut icon" href="//s3a.pstatp.com/toutiao/resource/ntoutiao_web/static/image/favicon_8e9c9c7.ico" type="image/x-icon"><link rel="stylesheet" href="//s3a.pstatp.com/toutiao/resource/ntoutiao_web/static/style/lib/layout_5fcc025.css"><!--[if lt IE 9]><script src="//s3a.pstatp.com/toutiao/resource/ntoutiao_web/static/js/lib/es5-shim_110642e.js"></script><![endif]--><script src="//s3.pstatp.com/toutiao/resource/ntoutiao_web/static/js/common/lib_d2cb17c.js" crossorigin="anonymous"></script><link rel="stylesheet" href="//s3b.pstatp.com/toutiao/resource/ntoutiao_web/page/search/search_b874eac.css" /></head><body style="min-width: 1220px; overflow-x: hidden;"><a href="/articles_news_society/" style="display:none;"></a><div class="y-wrap"><div id="header"><div riot-tag="wtopbar" style="height: 34px; background: #222;"></div></div><div riot-tag="login"></div><div id="toast"></div><div class="y-box container"><div class="y-left index-left"><a class="logo-wrap" href="//www.toutiao.com/"><img src="//s3.pstatp.com/toutiao/resource/ntoutiao_web/static/image/logo_201f80d.png" alt=""></a></div><div class="y-left index-middle"><div riot-tag="searchBar"></div><div riot-tag="tabBar"></div><div riot-tag="feedBox"></div></div><div class="y-right index-right"></div></div><div id="footer"><div><span class="fitem">© 2018 今日头条 </span><a class="fitem" href="http://www.12377.cn/" target="_blank">中国互联网举报中心</a><a class="fitem" href="http://www.miibeian.gov.cn/" target="_blank">京ICP证140141号</a><a class="fitem" href="http://www.miibeian.gov.cn/" target="_blank">京ICP备12025439号-3</a><a class="fitem" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11000002002023" target="_blank" ga_event="click_about"><img src="//s3.pstatp.com/toutiao/resource/ntoutiao_web/static/image/gongan_d0289dc.png">京公网安备 11000002002023号
+        </a></div><div><a class="fitem" href="/license/" class="icp" target="_blank">网络文化经营许可证</a><a class="fitem" href="/a3642705768/" target="_blank">跟帖评论自律管理承诺书</a><span class="fitem">违法和不良信息举报电话：010-58341833</span><span class="fitem">公司名称：北京字节跳动科技有限公司</span></div></div></div><script>
+        window.globals = window.globals || {};
+
+        window.taAnalysis && taAnalysis.setup({
+          c: '/search/'
+        });
+        window.taAnalysis && taAnalysis.send('pageview', {});
+
+        utils.on(document.getElementsByTagName('body')[0], 'click', function(e) {
+            var target = utils.getTarget(e),
+                ga_event,
+                ga_category,
+                ga_label,
+                ga_value;
+
+            while(target && target.nodeName.toUpperCase() !== 'BODY') {
+                ga_event = utils.getAttribute(target, 'ga_event');
+                ga_category = utils.getAttribute(target, 'ga_category') || '/search/';
+                ga_label = utils.getAttribute(target, 'ga_label');
+                ga_value = utils.getAttribute(target, 'ga_value') || 1;
+
+                ga_event && window._czc && _czc.push(["_trackEvent", ga_category, ga_event, ga_label, ga_value]);
+                ga_event && taAnalysis && taAnalysis.send('event', { ev: ga_event });
+                target = target.parentNode;
+            }
+        });
+
+        riot.observable(window);
+    </script><script src='//s2.pstatp.com/growth/confucius/confs/toutiao.web.toutiao_pc-pc-fe_switch.js?t=08231557'></script><script>
+      var PAGE_SWITCH = window['toutiao.web.toutiao_pc/pc/fe_switch'] || {};
+    </script><script>
+// 用户信息
+var userInfo = {
+  id: 0,
+  name: '',
+  avatarUrl: '',
+  isPgc: false,
+  isOwner: false
+};
+
+var tabInfo = {"tab_list":[{"tab_name":"\u7efc\u5408","tab_code":"search_tab","tab_id":1},{"tab_name":"\u89c6\u9891","tab_code":"video","tab_id":2},{"tab_name":"\u56fe\u96c6","tab_code":"gallery","tab_id":3},{"tab_name":"\u7528\u6237","tab_code":"media","tab_id":4}],"cur_tab":1};
+</script><script src="//s3.pstatp.com/toutiao/resource/ntoutiao_web/page/search/search_562d256.js"></script><script>
+  riot.mount('wtopbar', {
+    home: false,
+    userInfo: userInfo
+  });
+</script><script>
+  var KEYWORD = '';
+  
+  KEYWORD = "\u8857\u62cd";
+  
+</script><script>
+  riot.mount('searchBar', {
+    keyword: KEYWORD
+  });
+  riot.mount('tabBar', {
+    tabInfo: tabInfo
+  });
+</script><script>
+  riot.mount('feedBox', {
+    keyword: KEYWORD,
+    curTab: tabInfo.cur_tab || 1
+  });
+</script><script src="//s95.cnzz.com/z_stat.php?id=1259612802&web_id=1259612802" language="JavaScript"></script></body></html>
