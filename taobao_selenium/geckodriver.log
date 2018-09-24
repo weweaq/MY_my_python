@@ -997,3 +997,25 @@ JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, li
 [GPU 1816, Chrome_ChildThread] WARNING: pipe error: 109: file z:/
 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
 
+1537760482892	geckodriver	INFO	geckodriver 0.21.0
+1537760482906	geckodriver	INFO	Listening on 127.0.0.1:5164
+1537760485968	mozrunner::runner	INFO	Running command: "D:\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\weweaq\\AppData\\Local\\Temp\\rust_mozprofile.By2DwZJ4HxHl"
+1537760500968	Marionette	INFO	Listening on port 5172
+1537760501383	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537760501421	Marionette	DEBUG	[6442450945] Frame script loaded
+1537760501476	Marionette	DEBUG	[6442450945] Frame script registered
+1537760501517	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537760501645	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537760502731	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.taobao.com/
+1537760503397	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.taobao.com/
+1537760503549	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.taobao.com/
+1537760503923	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.taobao.com/
+1537760503927	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.taobao.com/
+1537760504044	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1537760504301	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://s.taobao.com/search?q=%E7%BE%8E%E9%A3%9F&imgfile=&commend=all&ssid=s5-e&search_type=item&sourceId=tb.index&spm=a21bo.2017.201856-taobao-item.2&ie=utf8&initiative_id=tbindexz_20170306
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 27: SyntaxError: expected expression, got '<'
+1537760506474	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://s.taobao.com/search?q=%E7%BE%8E%E9%A3%9F&imgfile=&commend=all&ssid=s5-e&search_type=item&sourceId=tb.index&spm=a21bo.2017.201856-taobao-item.2&ie=utf8&initiative_id=tbindexz_20170306
+1537760509081	Marionette	INFO	Stopped listening on port 5172
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
